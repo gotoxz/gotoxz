@@ -63,7 +63,7 @@
 
 ---
 
-### 🇺🇸 About me (English)
+### 🌐 About me (English)
 
 Information Systems student at Mackenzie University, São Paulo. Focused on **Full-Stack Web Development** and Python. Building real-world projects with HTML, CSS, JavaScript and data analysis tools. Actively looking for my first internship opportunity in web development or data.
 
